@@ -6,7 +6,6 @@ import { AuthProvider } from './context/AuthContext'
 
 import Homepage from './views/Homepage'
 import Registerpage from './views/Registerpage'
-import Loginpage from './views/Loginpage'
 import Dashboard from './views/Dashboard'
 import Navbar from './views/Navbar'
 
